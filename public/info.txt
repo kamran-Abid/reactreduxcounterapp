@@ -1,0 +1,9 @@
+React redux is used for state management
+React transfer  data between components using prop driling
+There is centeralised store
+It have 3 components
+1 -> action : What to do?
+2 -> reducer : How to do?
+STATE 
+3 -> store : object that hold the state or application
+4 -> Fuction associated with store  : createStore(), dispatch(state), getState()
